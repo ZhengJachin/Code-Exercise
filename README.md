@@ -1,2 +1,2 @@
-# Code-exercise
- 
+# Code-Exercise
+## JavaScript Code
